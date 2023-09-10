@@ -49,7 +49,7 @@ class HitboxSettingsSubState extends BaseOptionsMenu
 			"Choose Space Control Location",
 			'hitboxLocation',
 			'string',
-			['Bottom', 'Middle', 'Top']);
+			['Bottom', 'Middle', 'Top', 'TopShift']);
 		  addOption(option);  
 		  
 		var option:Option = new Option('Hitbox Alpha:', //mariomaster was here again
